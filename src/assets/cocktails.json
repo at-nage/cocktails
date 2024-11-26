@@ -1,0 +1,662 @@
+[
+	{
+		"name": "shots",
+		"variants": [
+			{
+				"name": "b52",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "creme-de-coffee",
+						"part": 0.25
+					},
+					{
+						"name": "irish-cream",
+						"part": 0.25
+					},
+					{
+						"name": "triple-sec",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "after-eight",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "creme-de-coffee",
+						"part": 0.25
+					},
+					{
+						"name": "irish-cream",
+						"part": 0.25
+					},
+					{
+						"name": "creme-de-menthe",
+						"part": 0.25
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "mix-drinks",
+		"variants": [
+			{
+				"name": "whiskey-cola",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "whiskey",
+						"part": 1
+					},
+					{
+						"name": "cola",
+						"part": 3
+					}
+				]
+			},
+			{
+				"name": "gin-tonic",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "gin",
+						"part": 1
+					},
+					{
+						"name": "cola",
+						"part": 3
+					}
+				]
+			},
+			{
+				"name": "vodka-lemon-lime-soda",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 3
+					}
+				]
+			},
+			{
+				"name": "screwdriver",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1
+					},
+					{
+						"name": "orange-juice",
+						"part": 3
+					}
+				]
+			},
+			{
+				"name": "cognac-cola",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "cognac",
+						"part": 1
+					},
+					{
+						"name": "cola",
+						"part": 2
+					},
+					{
+						"name": "orange-bitter",
+						"dash": 2
+					}
+				]
+			},
+			{
+				"name": "tequila-tonic",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 0.75
+					},
+					{
+						"name": "tonic",
+						"part": 2
+					}
+				]
+			},
+			{
+				"name": "tequila-lemon-lime-soda",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 0.75
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 2
+					}
+				]
+			},
+			{
+				"name": "vermouth-tonic",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vermouth",
+						"part": 1
+					},
+					{
+						"name": "tonic",
+						"part": 1
+					}
+				]
+			},
+			{
+				"name": "cuba-libre",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "rum",
+						"part": 1
+					},
+					{
+						"name": "cola",
+						"part": 3
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "vodka-tonic",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1
+					},
+					{
+						"name": "tonic",
+						"part": 3
+					},
+					{
+						"name": "creme-de-fleur-sureau",
+						"part": 0.15
+					},
+					{
+						"name": "grapefruit-juice",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "triple-sec",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "triple-sec",
+						"part": 1
+					},
+					{
+						"name": "orange-lemonade",
+						"part": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "long-island",
+		"variants": [
+			{
+				"name": "long-island-iced-tea",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 0.5
+					},
+					{
+						"name": "dry-gin",
+						"part": 0.5
+					},
+					{
+						"name": "white-rum",
+						"part": 0.5
+					},
+					{
+						"name": "triple-sec",
+						"part": 0.5
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "cola",
+						"part": 1.5
+					}
+				]
+			},
+			{
+				"name": "long-island-blue-ice",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 0.5
+					},
+					{
+						"name": "dry-gin",
+						"part": 0.5
+					},
+					{
+						"name": "white-rum",
+						"part": 0.5
+					},
+					{
+						"name": "blue-curacao",
+						"part": 0.5
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 1.5
+					}
+				]
+			},
+			{
+				"name": "long-island-tokyo-tea",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 0.5
+					},
+					{
+						"name": "dry-gin",
+						"part": 0.5
+					},
+					{
+						"name": "white-rum",
+						"part": 0.5
+					},
+					{
+						"name": "creme-de-melon-vert",
+						"part": 0.5
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 1.5
+					}
+				]
+			},
+			{
+				"name": "long-island-iced-coffee",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 0.25
+					},
+					{
+						"name": "white-rum",
+						"part": 0.25
+					},
+					{
+						"name": "tequila-silver",
+						"part": 0.25
+					},
+					{
+						"name": "irish-cream",
+						"part": 0.25
+					},
+					{
+						"name": "creme-de-coffee",
+						"part": 0.25
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.25
+					},
+					{
+						"name": "iced-coffee",
+						"part": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "spritz",
+		"variants": [
+			{
+				"name": "aperol-spritz",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "prosecco",
+						"part": 1.5
+					},
+					{
+						"name": "aperol",
+						"part": 1
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 0.5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "pina-colada",
+		"variants": [
+			{
+				"name": "pina-colada",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "white-rum",
+						"part": 0.5
+					},
+					{
+						"name": "cream-of-coconut",
+						"part": 0.5
+					},
+					{
+						"name": "pineapple-juice",
+						"part": 1.5
+					}
+				]
+			},
+			{
+				"name": "iba-pina-colada",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "white-rum",
+						"part": 1
+					},
+					{
+						"name": "cream-of-coconut",
+						"part": 0.5
+					},
+					{
+						"name": "pineapple-juice",
+						"part": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "margarita",
+		"variants": [
+			{
+				"name": "margarita",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 1
+					},
+					{
+						"name": "triple-sec",
+						"part": 0.33
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "coconut-margarita",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 1
+					},
+					{
+						"name": "triple-sec",
+						"part": 0.5
+					},
+					{
+						"name": "lime-juice",
+						"part": 0.25
+					},
+					{
+						"name": "cream-of-coconut",
+						"part": 0.5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "daykiri",
+		"variants": [
+			{
+				"name": "daykiri",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "white-rum",
+						"part": 1
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.33
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "mojito",
+		"variants": [
+			{
+				"name": "mojito",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "white-rum",
+						"part": 0.75
+					},
+					{
+						"name": "lime-juice",
+						"part": 0.33
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.1
+					},
+					{
+						"name": "soda",
+						"part": 1
+					},
+					{
+						"name": "mint"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "martini",
+		"variants": [
+			{
+				"name": "martini",
+				"method": "stir",
+				"recipe": [
+					{
+						"name": "gin",
+						"part": 1.25
+					},
+					{
+						"name": "vermouth",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "vodka-martini",
+				"method": "stir",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1.25
+					},
+					{
+						"name": "vermouth",
+						"part": 0.25
+					}
+				]
+			},
+			{
+				"name": "coconut-martini",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1
+					},
+					{
+						"name": "lime-juice",
+						"part": 0.25
+					},
+					{
+						"name": "cream-of-coconut",
+						"part": 0.5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "blue-lagoon",
+		"variants": [
+			{
+				"name": "blue-lagoon",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 1
+					},
+					{
+						"name": "blue-curacao",
+						"part": 0.33
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 2
+					}
+				]
+			},
+			{
+				"name": "electric-lemonade",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "vodka",
+						"part": 0.75
+					},
+					{
+						"name": "blue-curacao",
+						"part": 0.25
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.25
+					},
+					{
+						"name": "lemon-lime-soda",
+						"part": 2
+					}
+				]
+			},
+			{
+				"name": "blue-hawaii",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "white-rum",
+						"part": 0.33
+					},
+					{
+						"name": "blue-curacao",
+						"part": 0.33
+					},
+					{
+						"name": "creme-de-coconut",
+						"part": 0.33
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "pineapple-juice",
+						"part": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "tequila-mockingbird",
+		"variants": [
+			{
+				"name": "tequila-mockingbird",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 1
+					},
+					{
+						"name": "creme-de-menthe",
+						"part": 0.25
+					},
+					{
+						"name": "lime-juice",
+						"part": 0.25
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.17
+					}
+				]
+			}
+		]
+	}
+]

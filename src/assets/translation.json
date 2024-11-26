@@ -1,0 +1,96 @@
+{
+	"method": "Метод",
+	"shake": "Shake",
+	"stir": "Stir",
+	"build": "Build",
+
+	"mint": "Мята",
+
+	"mix-drinks": "Mix Drinks",
+	"gin-tonic": "Джин Тоник",
+	"whiskey-cola": "Виски Колла",
+	"cognac-cola": "Коньяк Колла",
+	"tequila-tonic": "Текила Тоник",
+	"vodka-tonic": "Водка Тоник",
+	"vodka-lemon-lime-soda": "Водка Спрайт",
+	"tequila-lemon-lime-soda": "Текила Спрайт",
+	"vermouth-tonic": "Вермут Тоник",
+
+	"cuba-libre": "Cuba Libre",
+	"screwdriver": "Отвертка",
+	
+	"shots": "Шоты",
+	"b52": "B52",
+	"after-eight": "After Eight",
+
+	"long-island": "Long Island",
+	"long-island-iced-tea": "Long Island Ice Tea",
+	"long-island-blue-ice": "Long Island Blue Ice",
+	"long-island-tokyo-tea": "Long Island Tokyo Tea",
+	"long-island-iced-coffee": "Long Island Iced Coffee",
+	
+	"spritz": "Spritz",
+	"aperol-spritz": "Aperol Spritz",
+
+	"pina-colada": "Pina Colada",
+	"iba-pina-colada": "IBA Pina Colada",
+
+	"mojito": "Mojito",
+	"margarita": "Margarita",
+	"coconut-margarita": "Coconut Margarita",
+	"daykiri": "Daykiri",
+	"martini": "Martini",
+	"vodka-martini": "Vodka Martini",
+	"coconut-martini": "Coconut Martini",
+
+	"blue-lagoon": "Blue Lagoon",
+	"electric-lemonade": "Electric Lemonade",
+	"blue-hawaii": "Blue Hawaii",
+
+	"tequila-mockingbird": "Tequila Mockingbird",
+
+	"vodka": "Водка",
+	"whiskey": "Виски",
+	"gin": "Джин",
+	"dry-gin": "Джин",
+	"old-tom-gin": "Джин Old Tom",
+	"rum": "Ром",
+	"white-rum": "Белый Ром",
+	"tequila": "Текила",
+	"tequila-silver": "Серебряная Текила",
+	"triple-sec": "Triple Sec",
+	"prosecco": "Просеко",
+	"aperol": "Aperol",
+
+	"blue-curacao": "Blue Curacao",
+  "irish-cream": "Irish Cream",
+  "creme-de-coffee": "Кофейный ликёр",
+  "creme-de-melon-vert": "Дынный Ликер",
+  "creme-de-fleur-sureau": "Ликер Бузины",
+  "creme-de-coconut": "Кокосовый Ликер",
+  "creme-de-menthe": "Мятный Ликер",
+  "vermouth": "Вермут",
+
+  "orange-bitter": "Orange Bitter",
+
+	"simple-syrup": "Сахарный сироп",
+	"cream-of-coconut": "Cream of Coconut",
+	
+	"lemon-juice": "Лимонный сок",
+	"lime-juice": "Сок Лайма",
+	"orange-juice": "Апельсиновый сок",
+	"pineapple-juice": "Ананасовый сок",
+	"grapefruit-juice": "Грейпфрутовый сок",
+	
+	"iced-coffee": "Холодный кофе",
+	"soda": "Содовая",
+	"cola": "Кока Кола",
+	"lemon-lime-soda": "Лимон-Лайм Содовая",
+	"orange-lemonade": "Апельсиновый лимонад",
+	"tonic": "Тоник",
+  
+	"measurement": "Единица измерения",
+  "parts": "ч",
+  "millimeters": "мл.",
+  "dash": "дэш."
+}
