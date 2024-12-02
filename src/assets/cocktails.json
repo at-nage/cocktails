@@ -558,6 +558,119 @@
 		]
 	},
 	{
+		"name": "fizz",
+		"variants": [
+			{
+				"name": "gin-fizz",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "gin",
+						"part": 0.75
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.17
+					},
+					{
+						"name": "soda"
+					}
+				]
+			},
+			{
+				"name": "tom-collins",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "old-tom-gin",
+						"part": 0.75
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.5
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.25
+					},
+					{
+						"name": "soda"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "smash",
+		"variants": [
+			{
+				"name": "gin-basil-smash",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "gin",
+						"part": 1
+					},
+					{
+						"name": "lemon-juice",
+						"part": 0.33
+					},
+					{
+						"name": "simple-syrup",
+						"part": 0.33
+					},
+					{
+						"name": "basil"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "americano",
+		"variants": [
+			{
+				"name": "americano",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "campari",
+						"part": 0.5
+					},
+					{
+						"name": "sweet-red-vermouth",
+						"part": 0.5
+					},
+					{
+						"name": "soda"
+					}
+				]
+			},
+			{
+				"name": "negroni",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "gin",
+						"part": 0.5
+					},
+					{
+						"name": "campari",
+						"part": 0.5
+					},
+					{
+						"name": "sweet-red-vermouth",
+						"part": 0.5
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "blue-lagoon",
 		"variants": [
 			{

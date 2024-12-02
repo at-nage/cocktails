@@ -5,6 +5,7 @@
 	"build": "Build",
 
 	"mint": "Мята",
+	"basil": "Базилик",
 
 	"mix-drinks": "Mix Drinks",
 	"gin-tonic": "Джин Тоник",
@@ -43,6 +44,16 @@
 	"vodka-martini": "Vodka Martini",
 	"coconut-martini": "Coconut Martini",
 
+	"fizz": "Fizz",
+	"gin-fizz": "Gin Fizz",
+	"tom-collins": "Tom Collins",
+
+	"smash": "Smash",
+	"gin-basil-smash": "Gin Basil Smash",
+
+	"americano": "Americano",
+	"negroni": "Negroni",
+
 	"blue-lagoon": "Blue Lagoon",
 	"electric-lemonade": "Electric Lemonade",
 	"blue-hawaii": "Blue Hawaii",
@@ -61,6 +72,7 @@
 	"triple-sec": "Triple Sec",
 	"prosecco": "Просеко",
 	"aperol": "Aperol",
+	"campari": "Campari",
 
 	"blue-curacao": "Blue Curacao",
   "irish-cream": "Irish Cream",
@@ -70,6 +82,7 @@
   "creme-de-coconut": "Кокосовый Ликер",
   "creme-de-menthe": "Мятный Ликер",
   "vermouth": "Вермут",
+  "sweet-red-vermouth": "Сладкий Красный Вермут",
 
   "orange-bitter": "Orange Bitter",
 

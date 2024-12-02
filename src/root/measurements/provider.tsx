@@ -26,6 +26,6 @@ export const MeasurementsContext = React.createContext<MeasurementProps>({
 });
 
 export const MeasurementsProvider: React.FC<React.PropsWithChildren> = ({ children }) => {
-	const [value, set] = useSessionStorage<Measurement>({ key: "measurement", defaultValue: "parts" });
+	const [value, set] = useSessionStorage<Measurement>({ key: "measurement", defaultValue: "millimeters" });
 	return <MeasurementsContext.Provider value={{ value, data: measurements, set, convert: converters[value] }}>{children}</MeasurementsContext.Provider>;
 };
