@@ -10,6 +10,7 @@
 	"mix-drinks": "Mix Drinks",
 	"gin-tonic": "Джин Тоник",
 	"whiskey-cola": "Виски Колла",
+	"rum-cola-jagermeister": "Ром Колла с Jägermeister",
 	"cognac-cola": "Коньяк Колла",
 	"tequila-tonic": "Текила Тоник",
 	"vodka-tonic": "Водка Тоник",
@@ -71,6 +72,7 @@
 	"tequila-silver": "Серебряная Текила",
 	"triple-sec": "Triple Sec",
 	"prosecco": "Просеко",
+	"jagermeister": "Jägermeister",
 	"aperol": "Aperol",
 	"campari": "Campari",
 

@@ -58,6 +58,24 @@
 				]
 			},
 			{
+				"name": "rum-cola-jagermeister",
+				"method": "build",
+				"recipe": [
+					{
+						"name": "whiskey",
+						"part": 1
+					},
+					{
+						"name": "jagermeister",
+						"part": 1
+					},
+					{
+						"name": "cola",
+						"part": 3
+					}
+				]
+			},
+			{
 				"name": "gin-tonic",
 				"method": "build",
 				"recipe": [
