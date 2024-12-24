@@ -768,7 +768,7 @@
 		"variants": [
 			{
 				"name": "tequila-sunrise",
-				"method": "shake",
+				"method": "build",
 				"recipe": [
 					{
 						"name": "tequila",
