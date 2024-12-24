@@ -1,6 +1,5 @@
 services:
   cocktails:
-    build:       
-      context: .
+    build: .
     ports:
       - 3000:3000

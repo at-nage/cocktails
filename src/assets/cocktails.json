@@ -764,8 +764,26 @@
 		]
 	},
 	{
-		"name": "tequila-mockingbird",
+		"name": "tequila-something",
 		"variants": [
+			{
+				"name": "tequila-sunrise",
+				"method": "shake",
+				"recipe": [
+					{
+						"name": "tequila",
+						"part": 1
+					},
+					{
+						"name": "orange-juice",
+						"part": 2
+					},
+					{
+						"name": "grenadine-syrup",
+						"part": 0.3333
+					}
+				]
+			},
 			{
 				"name": "tequila-mockingbird",
 				"method": "shake",
